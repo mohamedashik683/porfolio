@@ -1,13 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
     <title>My Portfolio</title>
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-    <h1>Hi, I'm Mohamed Ashik</h1>
-    <p>Future Web Developer</p>
-
-</body>
-</html>
